@@ -3,7 +3,9 @@
 ## Student Details
 - **Name:** Saksham Gupta  
 - **Registration No.:** 25BAI10598
-
+- **Branch:** C.S.E. (AI & ML)
+ - **Year:** 2025-26
+ 
  # Modules:
 - **Hands on Training on Presentation Software.**
 - **Building a Digital Portfolio.**
